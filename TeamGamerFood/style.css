@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Jura');
+
+/*	
+	CREDITS:
+	GMRFD A5 - Base Site/Original Broken Website.
+	GYGNG COW - Re-Built Entire Website.
+*/	
+
+.cow {
+width:305px;
+float:left;
+height:392px;
+background:transparent url(img/members/cow.png) center top no-repeat;
+}
+
+.cow:hover {
+background-image:url(img/members/cow_over.png);
+}
+
+.pk {
+width:305px;
+float:left;
+height:392px;
+background:transparent url(img/members/pk.png) center top no-repeat;
+}
+
+.pk:hover {
+background-image:url(img/members/pk_over.png);
+}
+
+.ted {
+width:305px;
+float:left;
+height:392px;
+background:transparent url(img/members/ted.png) center top no-repeat;
+}
+
+.ted:hover {
+background-image:url(img/members/ted_over.png);
+}
+
+* {
+margin:0;
+padding:0;
+}
+
+body {
+font:12px/1.35 Helvetica, Arial, sans-serif;
+color:#000;
+text-align:left;
+background:#000;
+font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+size:16px color: #333;
+}
+
+img {
+border:0;
+vertical-align:top;
+}
+
+a {
+text-decoration:none;
+color:#CA7E00;
+}
+
+a:hover {
+text-decoration:none;
+}
+
+:focus {
+outline:0;
+}
+
+ul,ol {
+list-style:none;
+}
+
+.main {
+width:942px;
+background:#000 url(img/main/gamerfood_background_grey_repeat.png);
+background-repeat:repeat-y;
+background-position:center top;
+margin:0 auto;
+padding:15px 20px;
+}
+
+.main-container {
+background:#000 url(img/main/gamerfood_background_grey.png);
+background-repeat:no-repeat;
+background-position:center top;
+padding-top:15px;
+}
+
+.cms-team-gamerfood .main-container {
+background:#000 url(img/main/gamerfood_background_black.png);
+background-repeat:no-repeat;
+background-position:center top;
+padding-top:35px;
+}
+
+.cms-team-gamerfood .main {
+background:url(img/main/gamerfood_background_black_repeat.png);
+background-repeat:repeat-y;
+background-position:center top;
+padding-top:35px;
+}
+
+.col-main {
+float:left;
+width:700px;
+border:0;
+padding:0;
+}
+
+.col1-layout .col-main {
+margin-top:-30px;
+float:none;
+width:auto;
+}
+
+.cms-page-view .std img {
+background-color:#FFF;
+border:1px solid #ccc;
+background:none;
+border-style:none;
+margin:0 10px 10px 0;
+padding:0;
+}
+
+.cms-page-view .col1-layout .col-main {
+width:auto;
+padding:10px;
+}
+
+.cms-page-view .col1-layout .rok-breadcrumbs {
+margin-right:522px;
+}
+
+.quick-access {
+background-color:#000;
+height:16px;
+margin-top:57px;
+}
+
+.rok-breadcrumbs ul li strong {
+color:#333;
+font-weight:500;
+}
+
+ul#magemenu-top li.active>a {
+color:#efe140;
+}
+
+.quick-access2 {
+background:url(img/main/navbar.png);
+background-position:center top;
+font-family: 'Jura', sans-serif;
+font-size: 12.5px;
+height:35px;
+line-height:35px;
+}
+
+ul#magemenu-top {
+position:relative;
+margin-right:25px;
+height:28px;
+font-size:20px;
+font-weight:700;
+top:98px;
+float:right;
+z-index:9999999999;
+padding:10px 0 10px 18px;
+}
+
+ul#magemenu-top li {
+float:left;
+height:38px;
+white-space:nowrap;
+position:relative;
+}
+
+ul#magemenu-top a {
+display:block;
+text-decoration:none;
+padding:5px 8px 5px 41px;
+}
+
+.header-container {
+position:relative;
+height:35px;
+margin:0 auto;
+}
+
+.inner-header-container {
+width:982px;
+position:relative;
+margin:0 auto;
+}
+
+legend,.cms-team-gamerfood .page-title h1,.cms-team-gamerfood .rok-breadcrumbs {
+display:none;
+}
+
+ul.menu-single li>a,span.color {
+color:#000;
+font-family: 'Jura', sans-serif;
+}
+
+.members {
+margin-top:10px;
+width:930px;
+}
+
+.memberimages {
+float:left;
+width:305px;
+padding-left:5px;
+}
+
+.leftmostmember {
+	float: left;
+	width: 305px;
+}
+
+.logo {
+width:930px;
+margin-top:25px;
+}
+
+marquee {
+	background-color: black;
+}
+
+/*	
+	CREDITS:
+	GMRFD A5 - Base Site/Original Broken Website.
+	GYGNG COW - Re-Built Entire Website.
+*/	
